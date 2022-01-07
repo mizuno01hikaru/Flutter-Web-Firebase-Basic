@@ -34,4 +34,3 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_FLUTTER_WEB_BASIC_85B9A }}'
           projectId: flutter-web-basic-85b9a
-          channel: 'stable' # ここを変更
